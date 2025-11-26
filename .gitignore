@@ -1,0 +1,27 @@
+# Ignore vector store artifacts
+vector_store/
+*.index
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS junk files
+.DS_Store
+__MACOSX/
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
